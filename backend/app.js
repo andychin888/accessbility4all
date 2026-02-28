@@ -6,7 +6,6 @@ const PORT = 8080; // --> .env file
 app.get('/', (req, res) => {
   res.send('Hello World!');
 
-  // hi
   
 });
 
